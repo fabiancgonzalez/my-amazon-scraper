@@ -1,18 +1,18 @@
 {
-    "$schema": "https://apify.com/schemas/v1/actor.ide.json",
-    "actorSpecification": 1,
-    "name": "project-playwright-crawler-typescript",
-    "title": "Project Playwright Crawler Typescript",
-    "description": "Crawlee and Playwright project in typescript.",
-    "version": "0.0",
-    "meta": {
-        "templateId": "ts-crawlee-playwright-chrome",
-        "generatedBy": "<FILL-IN-MODEL>"
-    },
-    "inputSchema": "./input_schema.json",
-    "outputSchema": "./output_schema.json",
-    "storages": {
-        "dataset": "./dataset_schema.json"
-    },
-    "dockerfile": "../Dockerfile"
+	"$schema": "https://apify.com/schemas/v1/actor.ide.json",
+	"actorSpecification": 1,
+	"name": "my-amazon-scraper",
+	"title": "Project Playwright Crawler Typescript",
+	"description": "Crawlee and Playwright project in typescript.",
+	"version": "0.0",
+	"meta": {
+		"templateId": "ts-crawlee-playwright-chrome",
+		"generatedBy": "<FILL-IN-MODEL>"
+	},
+	"inputSchema": "./input_schema.json",
+	"outputSchema": "./output_schema.json",
+	"storages": {
+		"dataset": "./dataset_schema.json"
+	},
+	"dockerfile": "../Dockerfile"
 }
